@@ -3,77 +3,77 @@
     {
       "title"    : "Welcome to Jekyll!",
       "tags"     : "example, welcome, jekyll, typing",
-      "url"     : "/typing-jekyll-template/blog/welcome-to-jekyll/",
+      "url"     : "/mysite/blog/welcome-to-jekyll/",
       "date"     : "3/10/2019"
     } ,
   
     {
       "title"    : "Social Tipping Point!",
       "tags"     : "ss",
-      "url"     : "/typing-jekyll-template/blog/ss-tipping-social/",
+      "url"     : "/mysite/blog/ss-tipping-social/",
       "date"     : "13/2/2019"
     } ,
   
     {
       "title"    : "Talent Luck!",
       "tags"     : "ss",
-      "url"     : "/typing-jekyll-template/blog/ss-talent-luck/",
+      "url"     : "/mysite/blog/ss-talent-luck/",
       "date"     : "13/2/2019"
     } ,
   
     {
       "title"    : "Herding Model!",
       "tags"     : "ss",
-      "url"     : "/typing-jekyll-template/blog/ss-herding-model/",
+      "url"     : "/mysite/blog/ss-herding-model/",
       "date"     : "13/2/2019"
     } ,
   
     {
       "title"    : "Statistical Arbitrage!",
       "tags"     : "fm",
-      "url"     : "/typing-jekyll-template/blog/fm-statarb/",
+      "url"     : "/mysite/blog/fm-statarb/",
       "date"     : "13/2/2019"
     } ,
   
     {
       "title"    : "French Realestate!",
       "tags"     : "fm",
-      "url"     : "/typing-jekyll-template/blog/fm-real-estate/",
+      "url"     : "/mysite/blog/fm-real-estate/",
       "date"     : "13/2/2019"
     } ,
   
     {
       "title"    : "News Analysis!",
       "tags"     : "fm",
-      "url"     : "/typing-jekyll-template/blog/fm-news-analysis/",
+      "url"     : "/mysite/blog/fm-news-analysis/",
       "date"     : "13/2/2019"
     } ,
   
     {
       "title"    : "Fundamental Analysis!",
       "tags"     : "fm",
-      "url"     : "/typing-jekyll-template/blog/fm-fundamental-analysis/",
+      "url"     : "/mysite/blog/fm-fundamental-analysis/",
       "date"     : "13/2/2019"
     } ,
   
     {
       "title"    : "Bubble Diffusion!",
       "tags"     : "fm",
-      "url"     : "/typing-jekyll-template/blog/fm-bubble-diffusion/",
+      "url"     : "/mysite/blog/fm-bubble-diffusion/",
       "date"     : "13/2/2019"
     } ,
   
     {
       "title"    : "Bubble Detection!",
       "tags"     : "fm",
-      "url"     : "/typing-jekyll-template/blog/fm-bubble-detection/",
+      "url"     : "/mysite/blog/fm-bubble-detection/",
       "date"     : "13/2/2019"
     } ,
   
     {
       "title"    : "Detection First Arrival!",
       "tags"     : "eq",
-      "url"     : "/typing-jekyll-template/blog/eq-detection-first-arrival/",
+      "url"     : "/mysite/blog/eq-detection-first-arrival/",
       "date"     : "13/2/2019"
     } 
   
